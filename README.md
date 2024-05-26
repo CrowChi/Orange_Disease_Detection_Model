@@ -16,8 +16,7 @@
         2) โรคแคงเกอร์ (Canker Disease) 			           384   รูป
         3) โรคเมลาโนสหรือโรคราเปื้อนน้ำหมาก (Melanose Disease)    210   รูป
         4) โรคแอนแทรคโนสหรือโรคใบจุด (Anthracnose Disease)     232   รูป
-    </div>
-
+        
 
 </body>
 </html>
