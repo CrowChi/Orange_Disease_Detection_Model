@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 4
+names: ['blackspot', 'canker', 'greening', 'melanose']
+
+roboflow:
+  workspace: testproject013
+  project: cirtus-u4glb
+  version: 3
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/testproject013/cirtus-u4glb/dataset/3

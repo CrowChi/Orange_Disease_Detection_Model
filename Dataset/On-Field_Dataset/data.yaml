@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 4
+names: ['Anthracnose', 'Canker', 'Greening', 'Melanose']
+
+roboflow:
+  workspace: testproject-zpb1c
+  project: test-tldaw
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/testproject-zpb1c/test-tldaw/dataset/1
