@@ -11,7 +11,8 @@
 
 โรค | จำนวนรูป
 ------------ | -------------
-โรคกรีนนิ่ง (Greening Disease)                      | 277
-โรคแคงเกอร์ (Canker Disease)                      | 384
-โรคเมลาโนสหรือโรคราเปื้อนน้ำหมาก (Melanose Disease)  | 210
-โรคแอนแทรคโนสหรือโรคใบจุด (Anthracnose Disease)   | 232
+โรคกรีนนิ่ง (Greening Disease)                      | 277      
+โรคแคงเกอร์ (Canker Disease)                      | 384      
+โรคเมลาโนสหรือโรคราเปื้อนน้ำหมาก (Melanose Disease)  | 210      
+โรคแอนแทรคโนสหรือโรคใบจุด (Anthracnose Disease)   | 232       
+  
