@@ -12,8 +12,8 @@
     <div>
         Dataset ทั้งหมด มี 1103 รูปแบ่งออกเป็นโรคได้ตั้งนี้
 
-        1) โรคกรีนนิ่ง (Greening Disease) 			              277   รูป
-        2) โรคแคงเกอร์ (Canker Disease) 			              384   รูป
+        1) โรคกรีนนิ่ง (Greening Disease) 			   277   รูป
+        2) โรคแคงเกอร์ (Canker Disease) 			   384   รูป
         3) โรคเมลาโนสหรือโรคราเปื้อนน้ำหมาก (Melanose Disease)     210   รูป
         4) โรคแอนแทรคโนสหรือโรคใบจุด (Anthracnose Disease)      232   รูป
         
