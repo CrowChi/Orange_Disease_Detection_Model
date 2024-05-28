@@ -20,4 +20,4 @@
 :link: Link Dataset Train : https://universe.roboflow.com/project-woabb/data-qfzui 
 
 :link: Link Dataset Test : https://universe.roboflow.com/testproject-zpb1c/test-tldaw \
-:warning: If All Dataset is Cloned There may be some photos that are not included.
+:warning: หากต้องการใช้ดาต้าเซ็ทอาจจะมีบางรูปที่โคลนไม่ติดจากทั้งหมด แนะนำให้ใช้ดาต้าเซ็ทที่อยู่ข้างในโฟลเดอร์จะครบกว่า
