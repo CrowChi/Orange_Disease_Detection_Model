@@ -16,3 +16,6 @@
 โรคเมลาโนสหรือโรคราเปื้อนน้ำหมาก (Melanose Disease)  | 210      
 โรคแอนแทรคโนสหรือโรคใบจุด (Anthracnose Disease)   | 232       
   
+:link: Link Dataset Train : https://universe.roboflow.com/project-woabb/data-qfzui. 
+
+:link: Link Dataset Test : https://universe.roboflow.com/testproject-zpb1c/test-tldaw.
